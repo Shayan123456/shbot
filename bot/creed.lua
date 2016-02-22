@@ -230,13 +230,21 @@ function create_config( )
     "owners",
     "set",
     "get",
+    "leave",
+    "wiki",
+    "translate",
+    "time",
+    "add-plugins",
+    "echo",
+    "danbooru",
+    "botphoto",
     "broadcast",
     "download_media",
     "invite",
     "all",
     "leave_ban"
     },
-    sudo_users = {118682430},--Sudo users
+    sudo_users = {87160007},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[Creed bot 2.3
