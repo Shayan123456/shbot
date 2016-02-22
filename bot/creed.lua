@@ -229,6 +229,7 @@ function create_config( )
     "add_bot",
     "owners",
     "set",
+    "location",
     "get",
     "leave",
     "wiki",
