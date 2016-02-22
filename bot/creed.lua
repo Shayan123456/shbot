@@ -223,6 +223,7 @@ function create_config( )
     "google",
     "sms",
     "Debian_service",
+    "webshot",
     "sudoers",
     "add_admin",
     "anti_spam",
