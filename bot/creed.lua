@@ -230,6 +230,7 @@ function create_config( )
     "owners",
     "set",
     "location",
+    "plugins",
     "get",
     "leave",
     "wiki",
