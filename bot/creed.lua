@@ -229,6 +229,7 @@ function create_config( )
     "anti_spam",
     "add_bot",
     "owners",
+    "chatbot",
     "set",
     "location",
     "plugins",
@@ -349,7 +350,7 @@ You Can user both "!" & "/" for them
 
 ]],
     help_text = [[
-Creed bots Help for mods : Plugins
+S.H.O.S bots Help for mods : Plugins
 
 Shayan123 : 
 
