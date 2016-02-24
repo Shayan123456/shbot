@@ -252,7 +252,7 @@ function create_config( )
     "all",
     "leave_ban"
     },
-    sudo_users = {87160007},--Sudo users
+    sudo_users = {87160007,137791771},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[Creed bot 2.3
@@ -354,7 +354,7 @@ You Can user both "!" & "/" for them
 
 ]],
     help_text = [[
-S.H.O.S bots Help for mods : Plugins
+King bot Help for mods : Plugins
 
 Shayan123 : 
 
@@ -547,6 +547,7 @@ To tags the every one and sends your message at bottom
 More plugins  soon ...
 ⚠️ We are S.H.O.S ⚠️
 کانال ما
+https://telegram.me/eaglebot3
 
 You Can user both "!" & "/" for them
 می توانید از دو شکلک !  و / برای دادن دستورات استفاده کنید
